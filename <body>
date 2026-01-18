@@ -1,0 +1,14 @@
+<h1>RIZZ STORE</h1>
+<p>Premium Digital Services</p>
+
+<div class="card">
+  <h2>Premium Access</h2>
+  <p class="price">₹199</p>
+  <a href="#" class="btn">Buy Now</a>
+</div>
+
+<div class="card">
+  <h2>VIP Service</h2>
+  <p class="price">Sold Out</p>
+  <a href="#" class="btn">Unavailable</a>
+</div>
